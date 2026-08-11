@@ -1,4 +1,5 @@
-﻿namespace TaskSession5
+﻿using static TaskSession5.Book;
+namespace TaskSession5
 {
     internal class Program
     {

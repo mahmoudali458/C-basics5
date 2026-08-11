@@ -12,7 +12,7 @@ namespace TaskSession5
         private string password = "secret";
         internal int copiesInStock = 5;
         public string Title;
-        public enum generation
+        public enum Genre
         {
             Fiction,
             NonFiction,
