@@ -6,8 +6,6 @@
         {
             #region Task5 Q1
 
-
-
             ////Compile error , password is accessible only inside its class
             //Book hmada = new Book();
             //Console.WriteLine(hmada.password);
